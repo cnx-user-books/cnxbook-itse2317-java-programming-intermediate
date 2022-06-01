@@ -1,0 +1,144 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12002</md:content-id>
+    <md:title>ITSE2317 - Java Programming (Intermediate)</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>465db7af-72f0-4f8f-8ac2-bb4d439ab046</md:uuid>
+<md:slug>itse2317-java-programming-intermediate</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Preface</md:title>
+      <col:content>
+        <col:module document="m45258"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Essence of OOP</md:title>
+      <col:content>
+        <col:module document="m59577"/>
+        <col:module document="m59579"/>
+        <col:module document="m44347"/>
+        <col:module document="m44346"/>
+        <col:module document="m44342"/>
+        <col:module document="m59576"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Generics</md:title>
+      <col:content>
+        <col:module document="m47554"/>
+        <col:module document="m47555"/>
+        <col:module document="m47562"/>
+        <col:module document="m47563"/>
+        <col:module document="m47819"/>
+        <col:module document="m47822"/>
+        <col:module document="m47828"/>
+        <col:module document="m47836"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Event Handling</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Preface to Event Handling</md:title>
+          <col:content>
+            <col:module document="m47842"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Java Event Handling Basics</md:title>
+          <col:content>
+            <col:module document="m44331"/>
+            <col:module document="m44333"/>
+            <col:module document="m59589"/>
+            <col:module document="m59592"/>
+            <col:module document="m44340"/>
+            <col:module document="m44336"/>
+            <col:module document="m59602"/>
+            <col:module document="m59595"/>
+            <col:module document="m59621"/>
+            <col:module document="m59614"/>
+            <col:module document="m59619"/>
+            <col:module document="m59617"/>
+            <col:module document="m59641"/>
+            <col:module document="m59631"/>
+            <col:module document="m59643"/>
+            <col:module document="m59638"/>
+            <col:module document="m59637"/>
+            <col:module document="m59627"/>
+            <col:module document="m59644"/>
+            <col:module document="m59658"/>
+            <col:module document="m59650"/>
+            <col:module document="m59660"/>
+            <col:module document="m59662"/>
+            <col:module document="m59567"/>
+            <col:module document="m59679"/>
+            <col:module document="m59654"/>
+            <col:module document="m59678"/>
+            <col:module document="m59664"/>
+            <col:module document="m59674"/>
+            <col:module document="m59669"/>
+            <col:module document="m59671"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Event Handling with Graphics</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Part 1</md:title>
+              <col:content>
+                <col:module document="m44330"/>
+                <col:module document="m44348"/>
+                <col:module document="m44350"/>
+                <col:module document="m44351"/>
+                <col:module document="m44352"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Part 2</md:title>
+              <col:content>
+                <col:module document="m44911"/>
+                <col:module document="m44912"/>
+                <col:module document="m44913"/>
+                <col:module document="m44914"/>
+                <col:module document="m44915"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Part 3</md:title>
+              <col:content>
+                <col:module document="m44916"/>
+                <col:module document="m44917"/>
+                <col:module document="m44921"/>
+                <col:module document="m44923"/>
+                <col:module document="m44926"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Practice Programs</md:title>
+              <col:content>
+                <col:module document="m44264"/>
+                <col:module document="m44265"/>
+                <col:module document="m44262"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Review Event Handling</md:title>
+          <col:content>
+            <col:module document="m47927"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>JavaServer Pages (JSP)</md:title>
+      <col:content>
+        <col:module document="m61616"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
